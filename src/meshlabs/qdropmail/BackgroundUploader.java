@@ -8,7 +8,6 @@ import java.net.URL;
 import java.util.List;
 import java.util.UUID;
 
-import meshlabs.qdropmail.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -29,8 +28,8 @@ public class BackgroundUploader implements Runnable {
 	public final static String UPLOAD_ERROR_ACTION = "meshlabs.qdropmail.UPLOAD_ERROR_ACTION";
 	
 	private final static String TAG = "BackgroundUploader";
-	private final static String DBX_KEY = "jcbtkzjp304lr6w";
-	private final static String DBX_SECRET = "z718dy1faemkxqi";
+	private final static String DBX_KEY = "put app key here";	
+	private final static String DBX_SECRET = "put app secret here";
 	
 	private final Activity activity;
 	private final Intent intent;
