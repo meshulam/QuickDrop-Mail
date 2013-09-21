@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">QuickDrop Mail</string>
+    <string name="processing_text">Please wait…</string>
+    <string name="default_text">Instructions: From another app such as photo gallery, PDF viewer, etc, share a file to QuickDrop Mail.</string>
+    <string name="linked_account_text">Dropbox account is now linked. Share file again to upload.</string>
+    <string name="upload_error_text">Error sharing to Dropbox or getting file link. Make sure you have internet access.</string>
+
+</resources>
